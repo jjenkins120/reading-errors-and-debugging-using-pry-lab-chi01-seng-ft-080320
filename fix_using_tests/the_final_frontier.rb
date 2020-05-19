@@ -1,5 +1,5 @@
 # don't forget to add: require 'pry'
-require 'pry'
+
 def star_date
   (rand(100000) + 400000) / 10.0
 end
@@ -12,4 +12,3 @@ def engage
   puts state_log(star_date)
   puts "crew greetings"
 end
-binding.pry
