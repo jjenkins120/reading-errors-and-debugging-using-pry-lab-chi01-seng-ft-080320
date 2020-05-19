@@ -17,6 +17,8 @@ def selection(num)
     puts "HAM HAM HAM IN MY TUMMY"
   end
 end
+selection(1)
+selection(2)
 
 def runner
   prompt_user
