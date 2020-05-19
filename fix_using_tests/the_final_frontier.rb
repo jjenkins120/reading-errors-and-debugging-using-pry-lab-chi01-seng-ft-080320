@@ -14,4 +14,5 @@ state_log(56790)
 
 def engage
   puts state_log(star_date)
+  puts 
 end
