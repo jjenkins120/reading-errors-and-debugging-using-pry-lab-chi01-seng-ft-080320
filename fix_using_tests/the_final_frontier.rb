@@ -7,7 +7,7 @@ end
 date = generate_star_date
 
 def state_log(star_date)
-  "Captain's Log, star date #{star_date}."
+  puts "Captain's Log, star date #{star_date}."
 end
 
 state_log(56790)
